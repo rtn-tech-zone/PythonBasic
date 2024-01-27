@@ -1,0 +1,24 @@
+#----------------Single-Line Comments-----------------
+# just by useing '#' before any single line can be commented not impact any Indentation Error
+
+#comment
+
+#----------------Multi-Line Comments------------------
+# if we have mutiple line wehere a devloper may wants to addd some instcution in muiple line this apparoc cane used
+# just by useing '"""' 3 quation mark before and after the mitiline it will treat a mutile comment and will not be excuted
+
+#by Using Single line Comments
+#Instection1
+#Step1
+#Sep2
+#Step3
+#instruction2
+
+#by uing mutiline comment the above can bewritten as below
+"""
+#Instection1
+#Step1
+#Sep2
+#Step3
+#instruction2
+"""

@@ -1,0 +1,35 @@
+#----------Java----------------#
+#if expression(){
+#    Code
+#}
+#Java Alternate
+#if expression(){
+#Code
+#}
+
+
+#----------Python----------------#
+#if expression
+#<tab/whitespace>Code
+
+#----------Python----------------#
+#SinglelineCode1
+#Block1
+#Block2
+#Block3
+#SinglelineCode2
+#Singlelinecode3
+
+#SinglelineCode1 >> Block1 >> Block2 >>  Block3 >> SinglelineCode2 >> SinglelineCode2
+
+#----------Python----------------#
+#SinglelineCode1
+#Block1
+    #Block2
+#Block3
+#SinglelineCode2
+#Singlelinecode3
+
+#SinglelineCode1 >> Block1 >> Block2(Now Block2 is child code of Block1) >> SinglelineCode2 >> SinglelineCode2
+
+print("sdsdsd")
